@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m8jqqf9xh-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/m8jqqf9xh-go-gitops
